@@ -1,1 +1,4 @@
-# 504_serverless_functions
+pandas
+requests
+numpy
+flask
